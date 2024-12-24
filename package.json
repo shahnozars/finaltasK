@@ -53,5 +53,8 @@
   },
   "engines": {
     "node": ">=18.18.0"
+  },
+  "dependencies": {
+    "wagmi": "^2.14.6"
   }
 }
